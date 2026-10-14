@@ -1,4 +1,4 @@
-# DocuMind AI - Agentic Document Intelligence Platform
+# Anuman AI - Agentic Document Intelligence Platform
 
 Upload PDF, DOCX, TXT, Markdown, CSV, Excel and PowerPoint files, chat about them (Groq), analyze them
 (Gemini) and export branded reports (PDF with embedded logo, DOCX, TXT, Markdown, CSV/XLSX).
